@@ -1,7 +1,7 @@
 ### Hi there, I'm Serkan Urgancı 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/S_Urganci?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS_Urganci&screen_name=@S_Urganci)
+[![Twitter Follow](https://img.shields.io/twitter/follow/S_Urganci?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS_Urganci&screen_name=S_Urganci)
 
 ## I'm a Developer and Fitness Lover :)
 
