@@ -1,15 +1,15 @@
 # Hi there, I'm Serkan Urgancı 👋
 ### I'm a Developer and Fitness Lover :)
 
-<a href="https://www.linkedin.com/in/serkan-urganc%C4%B1-271285200/">
+<a href="https://www.linkedin.com/in/serkan-urganc%C4%B1-271285200/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/S_Urganci">
+<a href="https://twitter.com/S_Urganci" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
-<a href="https://instagram.com/serkanurganci">
+<a href="https://instagram.com/serkanurganci" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>        
 </a>
 
