@@ -1,21 +1,23 @@
-### Hi there, I'm Serkan Urgancı 👋
+# Hi there, I'm Serkan Urgancı 👋
+### I'm a Developer and Fitness Lover :)
+
+<a href="https://www.linkedin.com/in/serkan-urganc%C4%B1-271285200/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/S_Urganci">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+<a href="https://instagram.com/serkanurganci">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>        
+</a>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/S_Urganci?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FS_Urganci&screen_name=S_Urganci)
-
-## I'm a Developer and Fitness Lover :)
-
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Being a junior frontend developer.
-- ⚡ Fun fact: I love to lifting weights 🤣
 
 
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -44,8 +46,3 @@
 
   <img align="left" alt="serkanurgancı's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=serkanurganci&show_icons=true&hide_border=true" />
 
-
-
-[twitter]: https://twitter.com/S_Urganci
-[instagram]: https://instagram.com/serkanurganci
-[linkedin]: https://www.linkedin.com/in/serkan-urganc%C4%B1-271285200/
